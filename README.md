@@ -1,1 +1,2 @@
-# Parkinson-Disease-project-
+# Parkinson Disease Prediction using XAI
+Parkinson's disease is a progressive neurodegenerative disorder that primarily affects movement, leading to symptoms like tremors, stiffness, and difficulty with balance and coordination. It's caused by the loss of brain cells that produce dopamine, a neurotransmitter crucial for controlling movements.Explainable AI (XAI) refers to the practice of making AI models and their decision-making processes understandable to humans.
